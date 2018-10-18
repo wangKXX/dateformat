@@ -1,3 +1,7 @@
+/** 
+ * @param date
+ * date对象 
+ */
 function timeFormat(date) {
   let second = parseInt(date)// 秒
   let minute = 0// 分
@@ -7,7 +11,15 @@ function timeFormat(date) {
   }
   return `${minute.toString().padStart(2, 0)}:${second.toString().padStart(2, 0)}`
 }
-
+/** 
+ * @param arr
+ * 对象数组
+ * @returns object
+ */
+function mergeObject(arr) {
+  return Object.assign({}, ...arr)
+}
 export default {
-  timeFormat
+  timeFormat,
+  mergeObject
 }

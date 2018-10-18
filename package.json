@@ -1,0 +1,22 @@
+{
+  "name": "mrtwangdateformat",
+  "version": "1.0.1",
+  "description": "常用处理方法",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangKXX/dateformat.git"
+  },
+  "keywords": [
+    "时间"
+  ],
+  "author": "mrtwangkai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangKXX/dateformat/issues"
+  },
+  "homepage": "https://github.com/wangKXX/dateformat#readme"
+}
