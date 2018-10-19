@@ -1,8 +1,8 @@
-# H2 mrtwamgDateFormat
-## H4 timeFormat(date)
+# mrtwamgDateFormat
+## timeFormat(date)
 将date转化为: 分钟:秒
-## H4 mergeObject(Array)
+## mergeObject(Array)
 合并对象方法: return Object
-## H4 cutDownImage(File, Number)
+## cutDownImage(File, Number)
 压缩图片到指定大小<br/>
 传入File对象和需要的尺寸
