@@ -1,6 +1,6 @@
 {
-  "name": "mrtwangdateformat",
-  "version": "1.0.1",
+  "name": "NormalUtils",
+  "version": "1.0.2",
   "description": "常用处理方法",
   "main": "index.js",
   "scripts": {
